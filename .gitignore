@@ -1,0 +1,32 @@
+# Operating System Files (Windows/Mac)
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Editor Directories (VS Code, etc.)
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Dependencies (if you use npm later)
+node_modules/
+package-lock.json
+yarn.lock
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment Variables (Security)
+.env
+.env.local
+
+# Build Outputs (if you eventually bundle your code)
+dist/
+build/
+
+# Temporary or Cache files
+.cache/
+tmp/
